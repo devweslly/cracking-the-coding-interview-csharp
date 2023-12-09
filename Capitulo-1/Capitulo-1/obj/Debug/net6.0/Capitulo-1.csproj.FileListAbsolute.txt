@@ -1,0 +1,14 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\Capitulo-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\Capitulo-1.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\Capitulo-1.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\Capitulo-1.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\bin\Debug\net6.0\Capitulo-1.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\bin\Debug\net6.0\Capitulo-1.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\bin\Debug\net6.0\Capitulo-1.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\bin\Debug\net6.0\Capitulo-1.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\bin\Debug\net6.0\Capitulo-1.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\Capitulo-1.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\refint\Capitulo-1.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\Capitulo-1.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\Capitulo-1.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\cracking-the-coding-interview-csharp\Capitulo-1\Capitulo-1\obj\Debug\net6.0\ref\Capitulo-1.dll
