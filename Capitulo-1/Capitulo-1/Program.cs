@@ -10,11 +10,17 @@
         #endregion
 
         #region 1.2 Check Permutation
-        string isPermutation    = IsPermutation("adaddgggeeee", "ddadegeggecc") ? "As strings são uma permutação" : "As strings não são uma permutação";
-        Console.WriteLine(isPermutation);
-        isPermutation           = IsPermutationUsingDict("adaddgggeeee", "ddadegegegcc") ? "As strings são uma permutação" : "As strings não são uma permutação";
-        Console.WriteLine(isPermutation);
+        //string isPermutation    = IsPermutation("adaddgggeeee", "ddadegeggecc") ? "As strings são uma permutação" : "As strings não são uma permutação";
+        //Console.WriteLine(isPermutation);
+        //isPermutation           = IsPermutationUsingDict("adaddgggeeee", "ddadegegegcc") ? "As strings são uma permutação" : "As strings não são uma permutação";
+        //Console.WriteLine(isPermutation);
         #endregion
 
+        #region 1.3 URLify
+        string replaceSimplified    = ReplaceSpacesSimplified("Mr John Smith");
+        Console.WriteLine(replaceSimplified);
+        string replaceSpaces        = ReplaceSpaces("Mr John Smith");
+        Console.WriteLine(replaceSpaces);
+        #endregion
     }
 }
