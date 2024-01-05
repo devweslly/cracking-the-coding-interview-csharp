@@ -1,5 +1,9 @@
 ﻿partial class Program
 {
+    /*
+     * Verificar se duas strings é uma permutação uma da outra.
+     */
+
     #region Usando array
     public static bool IsPermutation(string str1, string str2)
     {

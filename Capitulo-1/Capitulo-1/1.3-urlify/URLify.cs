@@ -1,5 +1,11 @@
-﻿partial class Program
+﻿using System.Runtime.Intrinsics.X86;
+
+partial class Program
 {
+    /*
+     * Substituir todos os espaços em uma string por '%20'
+     */
+
     #region Solução usando recursos da linguagem
     public static string ReplaceSpacesSimplified(string str)
     {
@@ -40,10 +46,10 @@
             chars[trueLength] = '\0'; // Fim do array
         }
 
-        char[] chars2 = new char[index];
+        char[] newCharsArray = new char[index];
         for (int i = 0; i < chars.Length; i++)
         {
-            chars2[i] = chars[i];
+            newCharsArray[i] = chars[i];
         }
 
         /*
@@ -54,24 +60,24 @@
          */
         for (int w = trueLength - 1; w >= 0; w--)
         {
-            if (chars2[w] == ' ')
+            if (newCharsArray[w] == ' ')
             {
-                chars2[index - 1]    = '0';
-                chars2[index - 2]    = '2';
-                chars2[index - 3]    = '%';
-                index              -= 3;
+                newCharsArray[index - 1]    = '0';
+                newCharsArray[index - 2]    = '2';
+                newCharsArray[index - 3]    = '%';
+                index                      -= 3;
             }
             else
             {
-                chars2[index - 1]    = chars2[w];
+                newCharsArray[index - 1]    = newCharsArray[w];
                 index--;
             }
         }
 
         string resultReplace = String.Empty;
-        for (int i = 0; i < chars2.Length; i++)
+        for (int i = 0; i < newCharsArray.Length; i++)
         {
-            resultReplace += chars2[i];
+            resultReplace += newCharsArray[i];
         }
 
         return resultReplace;
