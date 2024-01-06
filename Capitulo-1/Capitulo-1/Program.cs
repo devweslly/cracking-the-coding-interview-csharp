@@ -29,7 +29,14 @@
         #endregion
 
         #region 1.5 One Away
-        Console.WriteLine($"As strins são uma edição de distância: {OneEditAway("pale", "bake")}");
+        //Console.WriteLine($"As strins são uma edição de distância: {OneEditAwaySolutiion2("pale", "dale")}");
+        #endregion
+
+        #region 1.6 String Compression
+        string str = "aabcccccaaa";
+        Console.WriteLine($"A compactação da string '{str}': '{CompressBad(str)}'");
+        Console.WriteLine($"A compactação da string '{str}': '{Compress(str)}'");
+        Console.WriteLine($"A compactação da string '{str}': '{CompressSolution3(str)}'");
         #endregion
     }
 }
